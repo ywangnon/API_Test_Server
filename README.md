@@ -1,7 +1,7 @@
-## Try it
+## 주소
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+[https://my-json-server.typicode.com/ywangnon/API_Test_Server](https://my-json-server.typicode.com/ywangnon/API_Test_Server)
 
 ## Use your own data
 
-Fork it and change `db.json` values or create a repo with a `db.json` file.
+db.json의 데이터를 변경하면서 사용

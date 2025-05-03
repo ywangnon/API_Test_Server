@@ -1,8 +1,3 @@
-## 주소
-
-[https://my-json-server.typicode.com/ywangnon/API_Test_Server](https://my-json-server.typicode.com/ywangnon/API_Test_Server)
-
-
 # 🌐 API Test Server
 
 이 저장소는 간단한 API 테스트용 JSON 데이터를 제공하기 위해 만들어졌습니다.
@@ -14,9 +9,7 @@
 
 ## 🔗 가짜 API 서버 주소
 
-```
 [https://my-json-server.typicode.com/ywangnon/API_Test_Server](https://my-json-server.typicode.com/ywangnon/API_Test_Server)
-```
 
 이 URL을 통해 실제 API처럼 GET 요청을 보낼 수 있습니다.
 
